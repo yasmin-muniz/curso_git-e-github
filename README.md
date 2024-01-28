@@ -1,3 +1,3 @@
-# repositorio do curso
+# Repositorio do curso Git e Github
 
-## apenas um teste
+## 1º teste
