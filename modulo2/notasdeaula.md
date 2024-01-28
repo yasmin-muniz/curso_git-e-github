@@ -17,3 +17,10 @@ git clone "repositorio online copiado "
 
 -- abrir pasta de repositorio
 code .
+
+-- para adicionar um arquivo especifico a esteira do git
+git add "nome do arquivo com a extensão"
+
+*** git status serve para verificar o status dos arquivos e pastas dentro do repositorio ***
+
+*** git add adiciona todos os arquivos para a esteira de commit ***
